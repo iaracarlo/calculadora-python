@@ -15,11 +15,8 @@ Nesse projeto você encontra as principais operações matemáticas e também a 
 - operadores matemáticos
 # Como executar:
 Instale o Python 3
-
 Clone esse repositório
-
 Abra o arquivo calculadora.py
-
 Execute o programa pelo terminal ou pela sua IDE.
 
 # OBJETIVO
