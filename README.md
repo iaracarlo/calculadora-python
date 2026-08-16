@@ -14,9 +14,9 @@ Nesse projeto você encontra as principais operações matemáticas e também a 
 - f-strings
 - Operadores matemáticos
 ## Como executar:
-1. Instale o Python 3
-2. Clone esse repositório
-3. Abra o arquivo calculadora.py
+1. Instale o Python 3.
+2. Clone esse repositório.
+3. Abra o arquivo calculadora.py.
 4. Execute o programa pelo terminal ou pela sua IDE.
 
 ## OBJETIVO:
