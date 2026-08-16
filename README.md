@@ -12,7 +12,7 @@ Nesse projeto você encontra as principais operações matemáticas e também a 
 - if/elif/else
 - input()
 - f-strings
-- operadores matemáticos
+- Operadores matemáticos
 # Como executar:
 Instale o Python 3 <br>
 Clone esse repositório <br>
